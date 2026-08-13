@@ -1,4 +1,6 @@
-# gh stack Cheat Sheet For Reference
+
+# gh stack Complete Cheatsheet
+
 
 ## 1. Mental Model
 
